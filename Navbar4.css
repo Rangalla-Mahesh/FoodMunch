@@ -1,0 +1,16 @@
+.explore-menu-section{
+    background-color:white;
+    text-align: center;
+}
+.explore-menu-section-heading{
+    font-size: 25px;
+    font-style: italic;
+}
+.menu-card{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+.card-img{
+    border-radius: 15px;
+}

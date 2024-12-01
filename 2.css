@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+}
+.card-box{
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.card-heading{
+    font-size: 30px;
+    color: white;
+}
